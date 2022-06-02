@@ -14,7 +14,7 @@ let cuerpoTabla =document.getElementsByTagName("tbody");
 //     <td>3</td>
 //     <td>$ 23.00</td>
 //     </tr> `;
-
+// Prueba 1
 console.log(nameProduct,numberProducts);
 
 function validarNombre() {
